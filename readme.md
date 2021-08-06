@@ -1,5 +1,10 @@
 ### How to run
 
-### - run: mvn clean install
-### - run: mvn test
+### To install the dependencies
+
+`mvn clean install`
+
+### To run when you already have the dependencies
+
+`mvn test`
 
