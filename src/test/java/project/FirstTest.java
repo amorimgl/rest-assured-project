@@ -45,6 +45,5 @@ public class FirstTest {
 
     response.then().statusCode(200);
     response.then().body("headers", is(notNullValue()));
-}
-
+    }
 }
